@@ -298,10 +298,6 @@ predictor.create_visualizations()
 4. 推送到分支 (`git push origin feature/improvement`)
 5. 創建Pull Request
 
-### 📄 授權
-
-本專案採用MIT授權 - 詳見 [LICENSE](LICENSE) 檔案。
-
 
 ### 🙏 致謝
 
