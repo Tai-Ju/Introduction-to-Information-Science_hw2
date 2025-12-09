@@ -223,11 +223,6 @@ This is an academic project for educational purposes. For improvements or sugges
 4. Push to branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ### 🙏 Acknowledgments
 
 - Course instructor and teaching assistants
