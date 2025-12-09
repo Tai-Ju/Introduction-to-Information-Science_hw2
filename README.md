@@ -244,5 +244,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If this project was helpful for your learning, please give it a star!**
 
