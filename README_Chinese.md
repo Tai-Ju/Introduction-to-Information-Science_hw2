@@ -302,12 +302,6 @@ predictor.create_visualizations()
 
 本專案採用MIT授權 - 詳見 [LICENSE](LICENSE) 檔案。
 
-### 👤 作者
-
-**Tai-Ju**
-- GitHub: [@Tai-Ju](https://github.com/Tai-Ju)
-- 課程: 資訊科學導論
-- 學校: [您的大學名稱]
 
 ### 🙏 致謝
 
@@ -323,10 +317,6 @@ predictor.create_visualizations()
 3. 腎臟疾病診斷相關醫學文獻
 4. 醫療機器學習最佳實務指南
 
-### 📞 聯絡方式
-
-如有問題或合作機會，歡迎透過GitHub Issues聯絡。
-
 ### 🌟 特別說明
 
 本專案展示了從資料科學角度解決實際醫療問題的完整流程，包含：
@@ -338,6 +328,3 @@ predictor.create_visualizations()
 
 ---
 
-**⭐ 如果這個專案對您的學習有幫助，請給它一個星星！**
-
-**📧 有任何問題歡迎透過GitHub Issues討論交流。**
