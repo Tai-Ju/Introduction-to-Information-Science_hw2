@@ -1,6 +1,12 @@
 # 🏥 Introduction to Information Science - Homework 2
 ## Chronic Kidney Disease Prediction using Machine Learning
 
+## 📊 結果視覺化
+
+🌐 **互動圖表**：[tai-ju.github.io/Introduction-to-Information-Science_hw2](https://tai-ju.github.io/Introduction-to-Information-Science_hw2/)
+
+> 使用 Plotly.js 呈現模型效能結果，包含混淆矩陣、ROC 曲線、特徵重要性排名、5-Fold 交叉驗證比較，Decision Tree vs Logistic Regression 互動對比。
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-green.svg)](https://scikit-learn.org/)
